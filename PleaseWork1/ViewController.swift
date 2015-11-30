@@ -23,3 +23,5 @@ class ViewController: UIViewController {
 
 }
 
+var a = 989898
+
